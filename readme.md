@@ -1,7 +1,6 @@
 # Portfolio
 
 Welcome to my Portfolio repository!  
-I'm **Aravind K.B** (nickname: Kannan), a passionate full stack web developer, born in 2005.  
 I specialize in building modern web applications using **Next.js**, with a strong command over **Python**, **JavaScript**, and **C++**.
 
 ---
@@ -23,15 +22,7 @@ I specialize in building modern web applications using **Next.js**, with a stron
 
 ---
 
-## 📂 Projects
 
-Here are some highlights from my project portfolio:
-
-1. **Project One** - [Description or link]
-2. **Project Two** - [Description or link]
-3. **Project Three** - [Description or link]
-4. **Project Four** - [Description or link]
-5. **Project Five** - [Description or link]
 
 *Detailed write-ups and links can be found in the `projects/` folder or below.*
 
@@ -40,14 +31,13 @@ Here are some highlights from my project portfolio:
 ## 🌄 Portfolio Preview
 
 <!-- Add your portfolio image below -->
-![Portfolio Screenshot](path/to/your/image.png)
+![Portfolio Screenshot]([path/to/your/image.png](https://github.com/kannanhacker123/Portfolio/blob/main/public/images/Screenshot_19-5-2025_195714_kannanhacker123.github.io.jpeg))
 
 ---
 
 ## 📫 Contact
 
 - **GitHub:** [kannanhacker123](https://github.com/kannanhacker123)
-- **Email:** [your-email@example.com](mailto:your-email@example.com) *(replace with your actual email)*
 
 ---
 
