@@ -31,7 +31,7 @@ I specialize in building modern web applications using **Next.js**, with a stron
 ## 🌄 Portfolio Preview
 
 <!-- Add your portfolio image below -->
-![Portfolio Screenshot]([https://github.com/kannanhacker123/Portfolio/blob/main/public/images/Screenshot_19-5-2025_195714_kannanhacker123.github.io.jpeg?raw=true])
+![Portfolio Screenshot](public/images/Screenshot_19-5-2025_195714_kannanhacker123.github.io.jpeg)
 
 ---
 
